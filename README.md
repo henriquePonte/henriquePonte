@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Henrique Ponte
 
-<!--
-**henriquePonte/henriquePonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Software Developer** focused on building scalable, efficient, and high-quality applications.  
+With experience across **frontend**, **backend**, and **IoT-related systems**, I enjoy designing modern digital solutions — from mobile apps to backend infrastructures.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📊 GitHub Stats
+
+![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriquePonte&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriquePonte&layout=compact&theme=github_dark)
+
+---
+
+## 📫 Contact
+
+- 💬 Open to collaboration and innovative projects  
+- 🌐 [LinkedIn]([https://www.linkedin.com/in/henriqueponte](https://www.linkedin.com/in/henrique-ponte-818982276/))
+- ✉️ Email: *[henriquemedeirosponte@gmail.com]*  
+
+---
+
+> *“Code is like energy — efficient when optimized, powerful when well-directed.”* ⚡
