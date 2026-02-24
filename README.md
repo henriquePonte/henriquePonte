@@ -1,4 +1,11 @@
-# Hi, I'm Henrique Ponte
+
+<!--Banner-->
+![henrique Banner Image](./banner.png)
+
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Henrique Ponte 
+*Digital Craftsman (Developer)*
+<br /> 
 
 I'm a passionate **Software Developer** focused on building scalable, efficient, and high-quality applications.  
 With experience across **frontend**, **backend**, and **IoT-related systems**, I enjoy designing modern digital solutions — from mobile apps to backend infrastructures.
