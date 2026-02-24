@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Henrique Ponte
+# Hi, I'm Henrique Ponte
 
 I'm a passionate **Software Developer** focused on building scalable, efficient, and high-quality applications.  
 With experience across **frontend**, **backend**, and **IoT-related systems**, I enjoy designing modern digital solutions — from mobile apps to backend infrastructures.
