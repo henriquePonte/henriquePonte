@@ -23,18 +23,6 @@ With experience across **frontend**, **backend**, and **IoT-related systems**, I
 <br /> 
 <br /> 
 
-## 📊 GitHub Stats
-
-![Henrique's GitHub stats](https://github-readme-stats-4fsjxzka0-henriquepontes-projects.vercel.app/api?username=HenriquePonte&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats-4fsjxzka0-henriquepontes-projects.vercel.app/api/top-langs/?username=HenriquePonte&layout=compact&theme=github_dark)
-
----
-## 📫 Contact
-
-- 💬 Open to collaboration and innovative projects  
-- 🌐 [LinkedIn]([https://www.linkedin.com/in/henriqueponte](https://www.linkedin.com/in/henrique-ponte-818982276/))
-- ✉️ Email: *[henriquemedeirosponte@gmail.com]*  
-
 ---
 
-> *“Code is like energy — efficient when optimized, powerful when well-directed.”* ⚡
+> *“I enjoy creating and modifying things — sometimes games end, other times there are even leftover pieces.”* 
